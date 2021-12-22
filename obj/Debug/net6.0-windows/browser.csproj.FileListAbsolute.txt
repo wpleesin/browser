@@ -1,0 +1,8 @@
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.csproj.AssemblyReference.cache
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.AppContainer.resources
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.frmBrowser.resources
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.csproj.GenerateResource.cache
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.AssemblyInfoInputs.cache
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.AssemblyInfo.cs
+C:\Users\Erdem\source\repos\browser\browser\obj\Debug\net6.0-windows\browser.csproj.CoreCompileInputs.cache

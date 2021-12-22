@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IatZ73zmOLO1XN8g2IUBe6bqxHbKK5POj5xSvLf2g70hezSS42yUIjqmlsw0/D4y0hMMHxcXjIMSrQWuwXT+5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erdem\\source\\repos\\browser\\browser\\browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erdem\\.nuget\\packages\\easytabs\\2.0.0\\easytabs.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'EasyTabs 2.0.0' paketi, proje hedef çerçevesi 'net6.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "EasyTabs",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
